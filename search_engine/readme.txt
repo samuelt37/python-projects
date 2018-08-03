@@ -1,1 +1,1 @@
-this project takes website pages downloaded and placed in WEBPAGES_CLEAN and stores the tokens in each file into a mongodb database. Once loaded into the database, you can make search queries if you put it into a local server.
+This project takes website pages downloaded and placed in WEBPAGES_CLEAN and stores the tokens in each file into a mongodb database. Once loaded into the database, you can make search queries if you put it into a local server.
